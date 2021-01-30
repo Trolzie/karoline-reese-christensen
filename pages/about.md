@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About uzzzz
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
@@ -11,11 +11,17 @@ eleventyNavigation:
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
+
+
+![acasd](/static/img/arcadegamesstoryconstraints-1200x900.jpg "fsdfsdf")
+
+
+
 Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
+Capitalize\
+on\
+low\
+hanging\
 fruit  
 
 ## Our services
