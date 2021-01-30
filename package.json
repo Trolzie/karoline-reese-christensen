@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-netlify-boilerplate",
-  "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
+  "name": "karoline-reese-christensen",
+  "version": "1.0.0",
+  "description": "Psykolog Karoline Reese Christensen",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -12,9 +12,9 @@
     "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Troels Lauritz Reese Christensen",
+    "email": "hello@trolz.io",
+    "url": "https://www.trolz.io/"
   },
   "license": "MIT",
   "bugs": {
